@@ -4,6 +4,8 @@ Company- CodeTech IT Solutions Pvt. Limited
 Intern-ID- CT12DS1882
 Domain- Web Developement
 Duration-8 Weeks
+Mentor Name-Muzammil Ahmed
+Mentor Contact- +91-9640128015
 Time- 20 July 2024 to 20 September 2024
 
 Weather App
